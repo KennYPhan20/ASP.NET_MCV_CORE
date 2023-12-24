@@ -38,3 +38,4 @@ G:\PhanAnhTuan\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
 G:\PhanAnhTuan\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 G:\PhanAnhTuan\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
 G:\PhanAnhTuan\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+G:\PhanAnhTuan\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Diem.cshtml.g.cs

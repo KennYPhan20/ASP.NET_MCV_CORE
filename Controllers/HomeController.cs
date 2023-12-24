@@ -17,7 +17,11 @@ namespace WebApplication1.Controllers
         {
             _logger = logger;
         }
-
+        public IActionResult Diem()
+        {
+            //return View("~/Views/Home/Index.cshtml");
+            return View("~/Views/Home/Diem.cshtml");
+        }
         public IActionResult Index()
         {
             return View();
